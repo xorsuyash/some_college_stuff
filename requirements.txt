@@ -1,0 +1,10 @@
+transformers 
+torch 
+trl 
+accelerate 
+unsolth 
+openai
+langchain_openai
+datasets 
+tqdm 
+asyncio
